@@ -1,6 +1,10 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 <<<<<<< HEAD
+<<<<<<< HEAD
 resolving changes in working directory
 =======
 resolving changes in working directory
 >>>>>>> d412066739f909066969ab250d4aa7b06ebb3ed1
+=======
+resolving changes in working directory
+>>>>>>> fc3b5ce404d3e84e01fee560411ba112c4df9679
