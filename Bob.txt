@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hi! I'm Bobby. I've been here a while now.
-fun times with merging
-=======
-Hi! I'm Bobby. I've been here a while now.
-fun times with merging
->>>>>>> bobby_branch
